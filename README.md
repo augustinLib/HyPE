@@ -5,6 +5,10 @@ It employs hierarchical category paths as explanation, progressing from broad to
 <img src="./asset/figure1.png" width="600">
 
 
+## Demo Webpage
+You can explore HyPE’s explainable retrieval on the [demo page](https://hype-submission.github.io/).
+
+
 ## Dataset
 The dataset directory contains two main datasets: NQ320K and MSMARCO, along with a backbone category hierarchy.
 
